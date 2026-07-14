@@ -3,7 +3,7 @@ theme: minima # Or "just-the-docs" for a sidebar-style layout
 remote_theme: pmarsceill/just-the-docs # Highly recommended for academic labs
 
 description: Robotics, Networking, and Autonomous Intelligence Laboratory at UNO.
-url: "https://unocps.github.io."
+url: "https://RNA-Lab.github.io."
 baseurl: "/RNA-Lab"
 
 # Navigation configuration (for sidebar/top bar)
