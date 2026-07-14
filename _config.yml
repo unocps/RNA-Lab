@@ -1,0 +1,22 @@
+title: RNA Lab
+theme: minima # Or "just-the-docs" for a sidebar-style layout
+remote_theme: pmarsceill/just-the-docs # Highly recommended for academic labs
+
+description: Robotics, Networking, and Autonomous Intelligence Laboratory at UNO.
+url: "https://unocps.github.io."
+baseurl: "/RNA-Lab"
+
+# Navigation configuration (for sidebar/top bar)
+nav_enabled: true
+enable_search: true
+
+author:
+  name: Dr. Pei-Chi Huang 
+  email: phuang@unomaha.edu
+
+# Taxonomies or Collections if you want to scale later
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
